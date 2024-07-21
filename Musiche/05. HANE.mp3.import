@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bsoj138iad8xm"
+path="res://.godot/imported/05. HANE.mp3-43b4916a6d024dfb507cf538c2991c17.mp3str"
+
+[deps]
+
+source_file="res://Musiche/05. HANE.mp3"
+dest_files=["res://.godot/imported/05. HANE.mp3-43b4916a6d024dfb507cf538c2991c17.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

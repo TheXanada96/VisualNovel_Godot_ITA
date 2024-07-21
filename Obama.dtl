@@ -1,0 +1,28 @@
+[style name="PC98"]
+[background arg="res://Background/bg_039.png" fade="4.0"]
+[music path="res://Musiche/05. HANE.mp3" fade="0.0" volume="-10.0"]
+OIOI DEH
+BOIA!!
+join Rena (preoccupata) center
+Rena: Tutto bene signore!?
+Rena (preoccupata 2): È caduto di nuovo dall'albero di susine?!
+Eh??!! Ma dove sono?
+join Rena center
+Rena (preoccupata): Cavolo! Hai preso un brutto colpo!
+join Rika left [animation="Bounce In"]
+[sound path="res://Musiche/Suoni/nipah.mp3" volume="0.5"]
+Rika (Nipah): ~NIPAH
+Rika (felice): Ma te sei quel negro che viene da Livorno?
+join Satoko right [animation="Bounce In"]
+[sound path="res://Musiche/Suoni/Umineko Laugh.mp3" volume="-2.0"]
+Satoko (sus): Ancora a raccogliere susine? Paerché fai sempre cose da albanesi?
+Rena (arrabbiata): Lasciate stare questo signore!
+Rena (preoccupata 2): Si ricorda come si chiama?  Si è è obamizzato?
+[text_input text="Come ti chiami?" var="Nome"]
+Rika (Nipah): Che nome di di merda..
+Vuoi un ambulanza?
+- No
+	Rena (felice): Ah ok.
+- Si
+	Rena (arrabbiata): Non c'è linea!
+La maiala di tua madre

@@ -1,0 +1,65 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "preoccupata",
+"description": "",
+"display_name": "Rena",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"arrabbiata": {
+"export_overrides": {
+"image": "\"res://Personaggi/re_se_hii_a1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"felice": {
+"export_overrides": {
+"image": "\"res://Personaggi/re_se_de_a1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"preoccupata": {
+"export_overrides": {
+"image": "\"res://Personaggi/re_se_ko_a1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"preoccupata 2": {
+"export_overrides": {
+"image": "\"res://Personaggi/re_se_na_a1.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"triste": {
+"export_overrides": {
+"image": "\"res://Personaggi/re_se_ko_a2.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}

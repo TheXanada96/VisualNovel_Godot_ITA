@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1kpjq7nhrceo"
+path="res://.godot/imported/06. Ride on.mp3-b9c57f5a7a04c2f5366fef843ecf242b.mp3str"
+
+[deps]
+
+source_file="res://Musiche/06. Ride on.mp3"
+dest_files=["res://.godot/imported/06. Ride on.mp3-b9c57f5a7a04c2f5366fef843ecf242b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
