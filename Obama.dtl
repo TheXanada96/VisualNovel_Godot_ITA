@@ -19,7 +19,8 @@ Satoko (sus): Ancora a raccogliere susine? Paerché fai sempre cose da albanesi?
 Rena (arrabbiata): Lasciate stare questo signore!
 Rena (preoccupata 2): Si ricorda come si chiama?  Si è è obamizzato?
 [text_input text="Come ti chiami?" var="Nome"]
-Rika (Nipah): Che nome di di merda..
+Rika (Nipah): {Nome}?!\
+Che nome di di merda..
 Vuoi un ambulanza?
 - No
 	Rena (felice): Ah ok.
