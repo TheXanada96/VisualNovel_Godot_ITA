@@ -13,4 +13,3 @@ func _process(delta: float) -> void:
 
 func _on_nuovo_pressed() -> void:
 	get_tree().change_scene_to_file.call_deferred("res://Scene/Test.tscn") #Change scene to Test.tscn
-
