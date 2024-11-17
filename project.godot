@@ -33,7 +33,8 @@ layout/style_list=["res://Stili/PC98.tres"]
 layout/default_style="res://Stili/PC98.tres"
 glossary/default_case_sensitive=true
 variables={
-"Nome": ""
+"Nome": "",
+"gino": ""
 }
 glossary/glossary_files=["res://Glossario/Obamico.tres"]
 extensions_folder="res://addons/dialogic_additions"

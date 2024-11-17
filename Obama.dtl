@@ -17,13 +17,22 @@ join Satoko right [animation="Bounce In"]
 [sound path="res://Musiche/Suoni/Umineko Laugh.mp3" volume="-2.0"]
 Satoko (sus): Ancora a raccogliere susine? Paerché fai sempre cose da albanesi?
 Rena (arrabbiata): Lasciate stare questo signore!
-Rena (preoccupata 2): Si ricorda come si chiama?  Si è è obamizzato?
+Rena (preoccupata 2): Si ricorda come si chiama?  Si è obamizzato?
 [text_input text="Come ti chiami?" var="Nome"]
 Rika (Nipah): {Nome}?!\
-Che nome di di merda..
+Che nome di merda..
 Vuoi un ambulanza?
 - No
 	Rena (felice): Ah ok.
 - Si
 	Rena (arrabbiata): Non c'è linea!
 La maiala di tua madre
+Rika (felice): Ascolta...
+Rika (Nipah): Perché non aderisci al SOCIT?
+Satoko (sus): Ma cosa?
+[clear time="1.0" step="false" text="false" portraits="false" background="false" positions="false" style="false"]
+[wait time="1.0"]
+[music path="res://Musiche/06. Ride on.mp3" fade="0.0" volume="0.0"]
+[text_input text="Cosa ti piace mangiare?" var="gino"]
+[sound path="res://Musiche/Suoni/Umineko Laugh.mp3" volume="0.0"]
+Rika (Nipah): a me non piace il {gino}, fa schifo!
